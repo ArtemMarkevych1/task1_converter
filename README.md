@@ -1,12 +1,5 @@
-# Base template for Gulp
+Link on the page: 
+https://artemmarkevych1.github.io/task1_converter/
 
-## Task
-
----
-**Read the guideline before start**
-
-[Guideline](https://github.com/mate-academy/js_task-DOM-guideline)
-
-**Result**
-
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Please, pay attention on the pull request I've provided.
+There is my solution of task.
